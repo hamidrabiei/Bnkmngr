@@ -1,0 +1,29 @@
+.bankbox {
+width:100%;
+background:#e7e7e7; 
+display:inline-block; 
+margin: 10px 10px 0 0; 
+padding: 5px; 
+border-radius:5px; 
+box-shadow:0px 0px 5px gray;
+text-shadow: 0px 1px #fff;
+}
+
+.bankbox img {
+	float: right;
+	margin:15px 0 0;
+}
+
+tr {height:25px;}
+table.data {width:100%;}
+
+kbd {
+font-family: monospace;
+	width: auto;
+	font-size:16px;
+	font-weight:bold;
+	text-align:left;
+	direction:ltr;
+	display:inline-block;
+	float:left;
+}
